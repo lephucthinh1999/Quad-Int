@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(163): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(187): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(209): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(247): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(249): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(268): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(279): error C2065: 'string': undeclared identifier
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(279): error C2146: syntax error: missing ';' before identifier 'tempstr'
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(279): error C3861: 'tempstr': identifier not found
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(280): error C2065: 'tempstr': undeclared identifier
+c:\users\lephu\downloads\qint\source\qint-1712792\1712792\qint.h(393): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
